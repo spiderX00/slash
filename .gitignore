@@ -35,3 +35,5 @@ test-results.json
 !.vscode/extensions.json
 
 globalConfig.json
+
+/angular-src
